@@ -14,3 +14,6 @@ This project was built as part of the SheCodes AI course.
 ## What I learned
 - Using AI to assist creative web projects
 - Structuring simple front-end projects
+
+##Live Demo
+https://ai-poem-generator-zahra.netlify.app/
